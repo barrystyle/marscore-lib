@@ -76,7 +76,8 @@
     "bip37",
     "bip69",
     "bip70",
-    "multisig"
+    "multisig",
+    "marscoin"
   ],
   "repository": {
     "type": "git",

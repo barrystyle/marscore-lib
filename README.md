@@ -5,7 +5,7 @@ Marscore Library
 [![Build Status](https://img.shields.io/travis/marscoin/marscore-lib.svg?branch=master&style=flat-square)](https://travis-ci.org/marscoin/marscore-lib)
 [![Coverage Status](https://img.shields.io/coveralls/marscoin/marscore-lib.svg?style=flat-square)](https://coveralls.io/r/marscoin/marscore-lib)
 
-A pure and powerful JavaScript Litecoin library.
+A pure and powerful JavaScript Marscoin library.
 
 ## Principles
 

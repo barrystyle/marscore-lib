@@ -43,6 +43,7 @@ litecore.errors = require('./lib/errors');
 
 // main bitcoin library
 litecore.Address = require('./lib/address');
+litecore.RpcClient = require('.lib/rpcclient');
 litecore.Block = require('./lib/block');
 litecore.MerkleBlock = require('./lib/block/merkleblock');
 litecore.BlockHeader = require('./lib/block/blockheader');

@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-lib-ltc",
-  "version": "10.0.5",
-  "description": "A pure and powerful JavaScript Litecoin library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "name": "marscore-lib",
+  "version": "1.7.1",
+  "description": "A pure and powerful JavaScript Marscoin library.",
+  "author": "Marscoin Foundation",
   "main": "index.js",
   "scripts": {
     "test": "gulp --tasks && gulp test",
@@ -80,7 +80,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore-lib.git"
+    "url": "https://github.com/marscoin/marscore-lib.git"
   },
   "browser": {
     "request": "browser-request"

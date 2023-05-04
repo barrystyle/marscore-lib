@@ -9,7 +9,7 @@ A pure and powerful JavaScript Marscoin library.
 
 ## Principles
 
-Litecoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Litecoin network allows for highly resilient litecoin infrastructure, and the developer community needs reliable, open-source tools to implement litecoin apps and services.
+Marscoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Litecoin network allows for highly resilient marscoin infrastructure, and the developer community needs reliable, open-source tools to implement marscoin apps and services.
 
 ## Get Started
 

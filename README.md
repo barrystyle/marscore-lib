@@ -75,6 +75,7 @@ To verify signatures, use the following PGP keys:
 ## Development & Tests
 
 ```sh
+npm install --global gulp-cli
 git clone https://github.com/marscoin/marscore-lib
 cd marscore-lib
 npm install

@@ -37,6 +37,8 @@ litecore.util = {};
 litecore.util.buffer = require('./lib/util/buffer');
 litecore.util.js = require('./lib/util/js');
 litecore.util.preconditions = require('./lib/util/preconditions');
+litecore.util.VersiondData = require('./lib/util/versioneddata');
+litecore.util.EncodedData = require('./lib/util/encodeddata');
 
 // errors thrown by the library
 litecore.errors = require('./lib/errors');

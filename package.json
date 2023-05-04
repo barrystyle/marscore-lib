@@ -1,6 +1,6 @@
 {
   "name": "marscore-lib",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "A pure and powerful JavaScript Marscoin library.",
   "author": "Marscoin Foundation",
   "main": "index.js",

@@ -5,11 +5,11 @@ Marscore Library
 [![Build Status](https://img.shields.io/travis/marscoin/marscore-lib.svg?branch=master&style=flat-square)](https://travis-ci.org/marscoin/marscore-lib)
 [![Coverage Status](https://img.shields.io/coveralls/marscoin/marscore-lib.svg?style=flat-square)](https://coveralls.io/r/marscoin/marscore-lib)
 
-A pure and powerful JavaScript Marscoin library.
+A pure and powerful JavaScript Litecoin library.
 
 ## Principles
 
-Marscoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Litecoin network allows for highly resilient marscoin infrastructure, and the developer community needs reliable, open-source tools to implement marscoin apps and services.
+Litecoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Litecoin network allows for highly resilient litecoin infrastructure, and the developer community needs reliable, open-source tools to implement litecoin apps and services.
 
 ## Get Started
 
@@ -75,7 +75,6 @@ To verify signatures, use the following PGP keys:
 ## Development & Tests
 
 ```sh
-npm install --global gulp-cli
 git clone https://github.com/marscoin/marscore-lib
 cd marscore-lib
 npm install

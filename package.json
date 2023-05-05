@@ -1,6 +1,6 @@
 {
   "name": "marscore-lib",
-  "version": "1.7.2",
+  "version": "1.7.1",
   "description": "A pure and powerful JavaScript Marscoin library.",
   "author": "Marscoin Foundation",
   "main": "index.js",
@@ -76,8 +76,7 @@
     "bip37",
     "bip69",
     "bip70",
-    "multisig",
-    "marscoin"
+    "multisig"
   ],
   "repository": {
     "type": "git",
@@ -91,6 +90,7 @@
     "bn.js": "=4.11.8",
     "bs58": "^4.0.1",
     "buffer-compare": "=1.1.1",
+    "nbuffers": "^0.1.1",
     "elliptic": "^6.5.3",
     "inherits": "=2.0.1",
     "lodash": "^4.17.20",
